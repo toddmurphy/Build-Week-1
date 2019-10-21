@@ -220,13 +220,36 @@ header .links {
 div {
   width: 30%;
 }
+.works-titles {
+  border: 2px solid blue;
+  color: white;
+}
 .trusted-content {
   border: 2px solid red;
   display: flex;
   flex-wrap: wrap;
 }
+.trusted-top-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
 .testimonials-content {
   border: 2px solid blue;
+  padding: 5% 0;
+}
+.testimonials-container {
+  border: 2px solid red;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.testimonials-headers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 .footer-content {
   background: salmon;
