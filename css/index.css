@@ -204,4 +204,38 @@ header .links {
   color: black;
   width: 45%;
 }
+.hero-content {
+  border: 2px sold blue;
+  display: flex;
+}
+.explainer-content {
+  border: 2px solid red;
+}
+.works-content {
+  background: salmon;
+  border: 2px solid blue;
+  display: flex;
+  padding: 10% 0;
+}
+div {
+  width: 30%;
+}
+.trusted-content {
+  border: 2px solid red;
+  display: flex;
+  flex-wrap: wrap;
+}
+.testimonials-content {
+  border: 2px solid blue;
+}
+.footer-content {
+  background: salmon;
+  border: 2px solid blue;
+  display: flex;
+  padding: 10% 0;
+}
+.footer-titles {
+  border: 2px solid blue;
+  color: white;
+}
 /***** ABOUT PAGE STYLES *****/
