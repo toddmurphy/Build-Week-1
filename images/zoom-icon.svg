@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>zoom-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#68D88E" offset="0%"></stop>
+            <stop stop-color="#00D5BE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="nanny-scheduler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nanny-main-landing-page" transform="translate(-396.000000, -2393.000000)" fill="url(#linearGradient-1)">
+            <g id="trusted-verified-section" transform="translate(78.000000, 2209.000000)">
+                <g id="zoom" transform="translate(316.000000, 183.000000)">
+                    <g id="Icon-/-Notification--Solid">
+                        <path d="M18.75,24.9999999 C17.9744268,26.5420107 16.5456689,27.4911406 15,27.4911406 C13.4543311,27.4911406 12.0255732,26.5420107 11.25,24.9999999 L18.75,24.9999999 Z M15.5,1.25 C16.6045695,1.25 17.5,2.1454305 17.5,3.25 L17.500524,4.10759894 C21.3297875,5.23039475 24.1249999,8.86764744 24.125,13.1666666 L24.125,18.75 C24.125,20.0739808 25.1571667,21.25 26.25,21.25 C27.9166667,21.25 27.9166667,23.75 26.25,23.75 L3.75,23.75 C2.08333333,23.75 2.08333333,21.25 3.75,21.25 C4.84283332,21.25 5.875,20.0739808 5.875,18.75 L5.875,13.1666666 C5.87500006,8.86727575 8.67069585,5.2297658 12.5004693,4.10730777 L12.5,3.25 C12.5,2.1454305 13.3954305,1.25 14.5,1.25 L15.5,1.25 Z" id="🎨-Icon-Color"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

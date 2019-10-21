@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>messaging-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#916BFF" offset="0%"></stop>
+            <stop stop-color="#5168FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="nanny-scheduler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nanny-main-landing-page" transform="translate(-397.000000, -2611.000000)" fill="url(#linearGradient-1)">
+            <g id="trusted-verified-section" transform="translate(78.000000, 2209.000000)">
+                <g id="messaging" transform="translate(316.000000, 398.000000)">
+                    <g id="Icon-/-Message-Solid">
+                        <path d="M25.2,21.7318322 L10.2,21.7318322 L4.96822128,26.1923951 C4.459089,26.6264763 3.70241136,26.5560978 3.27813446,26.0352004 C3.09841946,25.814559 3,25.5364378 3,25.249227 L3,5.84159471 C3,4.82451004 3.80588745,4 4.8,4 L25.2,4 C26.1941125,4 27,4.82451004 27,5.84159471 L27,19.8902374 C27,20.9073221 26.1941125,21.7318322 25.2,21.7318322 Z" id="🎨-Icon-Color"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
